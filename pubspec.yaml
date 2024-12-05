@@ -1,0 +1,30 @@
+name: uasd_app_final
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: any
+  http: any
+  flutter_dotenv: any
+  google_maps_flutter: any 
+  shared_preferences: any
+  url_launcher: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/img2x2.jpeg
+    - assets/images/logo_uasd.png
+    - assets/images/background1.jpg
+
