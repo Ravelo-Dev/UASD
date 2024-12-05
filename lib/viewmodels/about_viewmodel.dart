@@ -10,10 +10,10 @@ class AboutViewModel {
       imagePath: "assets/images/img2x2.jpeg", // Ruta local
     ),
     Developer(
-      name: " ",
-      matricula: " ",
-      bio: "",
-      imagePath: "assets/images/", // Ruta local
-    ),
+      name: " Maycol Lora ",
+      matricula: " 2022-1045",
+      bio: " Desarrollador de software especializado en el desarrollo movil",
+      imagePath: "assets/images/MykeDev.jpg", // Ruta local
+    ),  
   ];
 }
